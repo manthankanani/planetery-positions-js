@@ -1,0 +1,10 @@
+html {color: black; font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif}
+td {color: black; font-size: 10pt}
+p {color: black; font-size: 10pt}
+b {color: black; font-size: 12pt}
+u {color: black; font-size: 12pt}
+body {color: black; background-color: white; background-image: url("universe1a.gif"); background-attachment: fixed}
+a:link {color: blue; text-decoration: underline}
+a:active {color: red; text-decoration: none}
+a:visited {color: purple; text-decoration: underline}
+a:hover {color: red; text-decoration: underline}
